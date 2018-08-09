@@ -1,2 +1,2 @@
-# Tasks-
+# Numpy-Tutorial-
 Numpy tutorial 
