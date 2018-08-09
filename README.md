@@ -1,2 +1,2 @@
-# Numpy-Tutorial-
+#Tutorial
 Numpy tutorial 
